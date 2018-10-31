@@ -3,7 +3,7 @@
 **/
 
 *{
-    box-sizing: boarder-box;
+    /* box-sizing: boarder-box; */
     text-align: center;
 }
 
@@ -14,39 +14,38 @@ body {
     color: #777777;
     background-color: #777777;
     width: 960px;
+    margin: 0 auto;
 }
 header {
-    width: 960px;
+    width: 900px;
     padding: 20px;
-    margin: 20px;
+    margin: 10px;
     color: #777777;
     background: #ebebeb
   }
   
     #nav {
-    width: 960px;
+    width: 900px;
     padding:20px;
-    margin:20px;
+    margin:10px;
     color: #777777;
     background: #ebebeb
   }
   
   #section {
     float: left;
-    width: 450px;
-    padding: 10px;
+    width: 555px;
     border: 10px;
     margin: 10px;
     color: #777777;
     background: #ebebeb;
     overflow: hidden;
-    overflow: hidden;
   }
   
   #section #article {
-    width: 90%;
+    width: 97S%;
     height: max-content;
-    margin: 5%;
+    margin: 2%;
     padding: 0%;
     color: #ebebeb;
     background: #777777;
@@ -54,8 +53,8 @@ header {
 
   #aside {
     float:left;
-    height: 330px;
-    width: 450px;
+    height: 235px;
+    width: 365px;
     margin: 10px;
     padding: 0%;
     border: 10px;
@@ -72,16 +71,16 @@ header {
   
   #p {
     margin: 5%;
-    height: 55px;
+    height: 40px;
     color: #777777;
     background: #ebebeb;
     }
   
  
   footer {
-    width: 960px;
+    width: 900px;
     padding: 20px;
-    margin: 20px;
+    margin: 10px;
     color: #777777;
     background: #ebebeb
   }
